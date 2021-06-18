@@ -1,0 +1,23 @@
+{
+  "name": "hangman",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "random-words": "^1.1.1",
+    "ts-node": "^10.0.0",
+    "typescript": "^4.3.4"
+  },
+  "devDependencies": {
+    "@types/node": "^15.12.2",
+    "@types/prompt-sync": "^4.1.0",
+    "@types/random-words": "^1.1.1",
+    "tslib": "^2.3.0"
+  }
+}
